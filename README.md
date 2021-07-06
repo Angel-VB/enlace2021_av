@@ -1,2 +1,2 @@
 # enlace2021_av
-Enlace 2021 project 19
+Project 19: Spatial, temporal, and phylogenetic analysis of COVID-19 spread
